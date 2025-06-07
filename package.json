@@ -1,0 +1,13 @@
+{
+  "name": "greetify-multilang",
+  "version": "1.0.0",
+  "description": "A TypeScript utility to greet users in multiple languages based on the time of day",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["greet", "typescript", "multilingual", "i18n"],
+  "author": "Ravindra Kumar",
+  "license": "MIT"
+}
